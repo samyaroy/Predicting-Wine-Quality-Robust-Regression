@@ -1,0 +1,6 @@
+# R packages required to run analysis.ipynb
+
+car         # For regression diagnostics (e.g., VIF)
+corrplot    # For correlation matrix visualization
+glmnet      # For ridge regression and lasso
+robust      # For robust regression methods
