@@ -1,6 +1,7 @@
 ## Predicting Wine Quality:  A Comparison of Linear Regression Techniques on a Multicollinear and Outlier-Affected Dataset
 [![DOI](https://img.shields.io/badge/DOI-10.13140%2FRG.2.2.16657.13926-blue)](https://doi.org/10.13140/RG.2.2.16657.13926)
 
+[![Open In Colab](https://img.shields.io/badge/Colab-Open%20In%20Colab-blue?logo=googlecolab)](https://colab.research.google.com/drive/155YRm4swD98EgS-pEEcDidi7c-C1gCED)
 ---
 
 ### Abstract
