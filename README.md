@@ -35,6 +35,6 @@ Roy, S. (2025). Predicting Wine Quality: A Comparison of Linear Regression Techn
 
 ### License
 
-This repository is licensed under the **MIT License**.  
+This repository is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 You are free to use, modify, and distribute this work for academic, research, or commercial purposes, with proper attribution.  
-See the LICENSE file for details.  
+See the LICENSE file for details. [Read more here](https://creativecommons.org/licenses/by/4.0/).  
